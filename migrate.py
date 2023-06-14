@@ -24,6 +24,7 @@ for cls in class_offerings:
         section_data['_created'] = firestore.SERVER_TIMESTAMP
         section_data['_lastWiped'] = firestore.SERVER_TIMESTAMP
 
+        db.document(f'chats/{cls}').set(None)
         db.collection(f'chats/{cls}/{sec}').document('meta').set(section_data)
 
         # members and messages will be found in the following paths
