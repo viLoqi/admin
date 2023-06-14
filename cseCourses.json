@@ -5,7 +5,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "HARRIMAN HLL 137 WESTCAMPUS",
+            "room": "HARRIMAN HLL 137 WESTCAMPUS",
             "instructor": "Kevin McDonnell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -14,8 +14,8 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 10:30AM - 11:50AM",
-            "days": "Korea  OUTOFCNTRY",
-            "instructor": "Byungkon Kang",
+            "room": "Korea  OUTOFCNTRY",
+            "instructor": "Francois Bernard Rameau",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
@@ -24,8 +24,8 @@
             "classNumber": "89660",
             "section": "01-LEC",
             "semester": "Fall",
-            "classTime": "MoWe 8:30AM - 9:50AM",
-            "days": "TBA",
+            "classTime": "TuTh 8:30AM - 9:50AM",
+            "room": "HARRIMAN HLL 137 WESTCAMPUS",
             "instructor": "Paul Fodor",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -33,8 +33,8 @@
             "classNumber": "91274",
             "section": "02-LEC",
             "semester": "Fall",
-            "classTime": "TuTh 11:30AM - 12:50PM",
-            "days": "TBA",
+            "classTime": "MoWe 5:30PM - 6:50PM",
+            "room": "LGT ENGR LAB 102 WESTCAMPUS",
             "instructor": "Jalaa Hoblos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -42,8 +42,8 @@
             "classNumber": "92231",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "MoWe 10:30AM - 11:50AM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "classTime": "MoWe 2:00PM - 3:20PM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -54,7 +54,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
+            "room": "COMPUTER SCI 2120 WESTCAMPUS",
             "instructor": "Michael Bender",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -65,7 +65,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 8:30AM - 9:50AM",
-            "days": "TBA",
+            "room": "LGT ENGR LAB 102 WESTCAMPUS",
             "instructor": "Ahmad Esmaili",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -73,8 +73,8 @@
             "classNumber": "91405",
             "section": "02-LEC",
             "semester": "Fall",
-            "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "TBA",
+            "classTime": "TuTh 5:30PM - 6:50PM",
+            "room": "FREY HALL 104 WESTCAMPUS",
             "instructor": "Ritwik Banerjee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -82,8 +82,8 @@
             "classNumber": "92233",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "TuTh 2:00PM - 3:20PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "classTime": "TuTh 10:30AM - 11:50AM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -94,7 +94,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 4:00PM - 5:20PM",
-            "days": "TBA",
+            "room": "LGT ENGR LAB 102 WESTCAMPUS",
             "instructor": "Pramod Ganapathi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -103,7 +103,7 @@
             "section": "02-LEC",
             "semester": "Fall",
             "classTime": "MoFr 1:00PM - 2:20PM",
-            "days": "TBA",
+            "room": "LGT ENGR LAB 102 WESTCAMPUS",
             "instructor": "Himanshu Gupta",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -112,7 +112,7 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 12:30PM - 1:50PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -123,7 +123,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "ENGINEERING 143 WESTCAMPUS",
+            "room": "ENGINEERING 143 WESTCAMPUS",
             "instructor": "Ritwik Banerjee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -131,9 +131,9 @@
             "classNumber": "92339",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "TuTh 5:00PM - 6:20PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
-            "instructor": "YoungMin Kwon",
+            "classTime": "TuTh 9:00AM - 10:20AM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
@@ -143,16 +143,16 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 8:30AM - 9:50AM",
-            "days": "ENGINEERING 143 WESTCAMPUS",
-            "instructor": "Joydeep Mitra",
+            "room": "ENGINEERING 143 WESTCAMPUS",
+            "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "90-LEC": {
             "classNumber": "92237",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "TuTh 10:30AM - 11:50AM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "classTime": "MoWe 10:30AM - 11:50AM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -163,7 +163,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
+            "room": "COMPUTER SCI 2120 WESTCAMPUS",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -175,8 +175,8 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 4:00PM - 5:20PM",
-            "days": "TBA",
-            "instructor": "Kathleen-Anna Amella",
+            "room": "MELVILLE LBR W4540 WESTCAMPUS",
+            "instructor": "Karen Buechner",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "02-LEC": {
@@ -184,7 +184,7 @@
             "section": "02-LEC",
             "semester": "Fall",
             "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "TBA",
+            "room": "New Computer Science Bldg 115 WESTCAMPUS",
             "instructor": "Jennifer Young",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -193,8 +193,8 @@
             "section": "03-LEC",
             "semester": "Fall",
             "classTime": "TuTh 2:30PM - 3:50PM",
-            "days": "TBA",
-            "instructor": "Kathleen-Anna Amella",
+            "room": "MELVILLE LBR W4540 WESTCAMPUS",
+            "instructor": "Karen Buechner",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "04-LEC": {
@@ -202,7 +202,7 @@
             "section": "04-LEC",
             "semester": "Fall",
             "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "TBA",
+            "room": "MELVILLE LBR W4525 WESTCAMPUS",
             "instructor": "Jennifer Young",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -210,9 +210,9 @@
             "classNumber": "91742",
             "section": "06-LEC",
             "semester": "Fall",
-            "classTime": "MoWe 2:30PM - 3:50PM",
-            "days": "New Computer Science Bldg 115 WESTCAMPUS",
-            "instructor": "Joseph Labriola",
+            "classTime": "TuTh 11:30AM - 12:50PM",
+            "room": "COMPUTER SCI 2129 WESTCAMPUS",
+            "instructor": "Jennifer Young",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "90-LEC": {
@@ -220,40 +220,31 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "MoWe 3:30PM - 4:50PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Christopher Houghton",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
     "CSE 303": {
-        "01-LEC": {
-            "classNumber": "89561",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 5:30PM - 6:50PM",
-            "days": "ENGINEERING 145 WESTCAMPUS",
-            "instructor": "Anita Wasilewska",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        },
         "90-LEC": {
             "classNumber": "92322",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 3:30PM - 4:50PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
     "CSE 304": {
-        "01-LEC": {
-            "classNumber": "96266",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "MoWeFr 12:00PM - 12:53PM",
-            "days": "COMPUTER SCI 2311 WESTCAMPUS",
-            "instructor": "Christopher Kane",
-            "meetingDates": "08/28/2023 - 12/21/2023"
+        "90-LEC": {
+            "classNumber": "96938",
+            "section": "90-LEC",
+            "semester": "Fall SK",
+            "classTime": "TuTh 9:00AM - 10:20AM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "AMOS OMONDI",
+            "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
     "CSE 305": {
@@ -262,7 +253,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 4:00PM - 5:20PM",
-            "days": "New Computer Science Bldg 120 WESTCAMPUS",
+            "room": "ONLINE ONLINE WESTCAMPUS",
             "instructor": "Scott Smolka",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -273,7 +264,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 8:30AM - 9:50AM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
+            "room": "COMPUTER SCI 2120 WESTCAMPUS",
             "instructor": "Dongyoon Lee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -283,8 +274,8 @@
             "classNumber": "89443",
             "section": "01-LEC",
             "semester": "Fall",
-            "classTime": "TuTh 2:30PM - 3:50PM",
-            "days": "HARRIMAN HLL 137 WESTCAMPUS",
+            "classTime": "MoWe 7:00PM - 8:20PM",
+            "room": "HARRIMAN HLL 137 WESTCAMPUS",
             "instructor": "Jalaa Hoblos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -292,9 +283,9 @@
             "classNumber": "92268",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "MoWe 10:30AM - 11:50AM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
-            "instructor": "Jihoon Ryoo",
+            "classTime": "TuTh 10:30AM - 11:50AM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
@@ -304,7 +295,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 11:30AM - 12:50PM",
-            "days": "TBA",
+            "room": "New Computer Science Bldg 120 WESTCAMPUS",
             "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -313,8 +304,8 @@
             "section": "02-LEC",
             "semester": "Fall",
             "classTime": "MoWe 8:30AM - 9:50AM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Staff",
+            "room": "COMPUTER SCI 2120 WESTCAMPUS",
+            "instructor": "Jennifer Carter",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
@@ -324,7 +315,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWeFr 11:00AM - 11:53AM",
-            "days": "HARRIMAN HLL 137 WESTCAMPUS",
+            "room": "HARRIMAN HLL 137 WESTCAMPUS",
             "instructor": "Christopher Kane",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -332,8 +323,8 @@
             "classNumber": "92342",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "MoWe 2:00PM - 3:20PM",
-            "days": "Korea  OUTOFCNTRY",
+            "classTime": "MoWe 9:00AM - 10:20AM",
+            "room": "Korea  OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -343,8 +334,8 @@
             "classNumber": "91008",
             "section": "01-LEC",
             "semester": "Fall",
-            "classTime": "MoWe 5:20PM - 6:40PM",
-            "days": "FREY HALL 104 WESTCAMPUS",
+            "classTime": "MoWe 5:30PM - 6:50PM",
+            "room": "FREY HALL 104 WESTCAMPUS",
             "instructor": "Eugene Stark",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -353,20 +344,9 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 12:30PM - 1:50PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
-            "instructor": "YoungMin Kwon",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Yoon Seok Yang",
             "meetingDates": "08/28/2023 - 12/14/2023"
-        }
-    },
-    "CSE 327": {
-        "01-LEC": {
-            "classNumber": "92405",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "MoWe 7:00PM - 8:20PM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Zhaozheng Yin",
-            "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
     "CSE 331": {
@@ -374,40 +354,9 @@
             "classNumber": "91473",
             "section": "01-LEC",
             "semester": "Fall",
-            "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "TBA",
+            "classTime": "MoFr 1:00PM - 2:20PM",
+            "room": "JAVITS LECTR 103 WESTCAMPUS",
             "instructor": "Omar Chowdhury",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        },
-        "90-LEC": {
-            "classNumber": "92474",
-            "section": "90-LEC",
-            "semester": "Fall SK",
-            "classTime": "TuTh 10:30AM - 11:50AM",
-            "days": "TBA",
-            "instructor": "Antonino Mione",
-            "meetingDates": "08/28/2023 - 12/14/2023"
-        }
-    },
-    "CSE 332": {
-        "01-LEC": {
-            "classNumber": "91701",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 7:00PM - 8:20PM",
-            "days": "TBA",
-            "instructor": "Klaus Mueller",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        }
-    },
-    "CSE 333": {
-        "01-LEC": {
-            "classNumber": "91474",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 2:30PM - 3:50PM",
-            "days": "COMPUTER SCI 2205 WESTCAMPUS",
-            "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
@@ -417,7 +366,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 4:00PM - 5:20PM",
-            "days": "COMPUTER SCI 2205 WESTCAMPUS",
+            "room": "COMPUTER SCI 2205 WESTCAMPUS",
             "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -428,8 +377,8 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 11:30AM - 12:50PM",
-            "days": "FREY HALL 102 WESTCAMPUS",
-            "instructor": "Joydeep Mitra",
+            "room": "FREY HALL 102 WESTCAMPUS",
+            "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
@@ -439,7 +388,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 5:30PM - 6:50PM",
-            "days": "COMPUTER SCI 2311 WESTCAMPUS",
+            "room": "COMPUTER SCI 2311 WESTCAMPUS",
             "instructor": "Supartha Podder",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -449,32 +398,21 @@
             "classNumber": "92281",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "MoWe 2:00PM - 3:20PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
-            "instructor": "Seung Soo Park",
+            "classTime": "TuTh 2:00PM - 3:20PM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 353": {
-        "01-LEC": {
-            "classNumber": "91947",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 4:00PM - 5:20PM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Yifan Sun",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        }
-    },
     "CSE 354": {
-        "01-LEC": {
-            "classNumber": "96267",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "MoWe 5:30PM - 6:50PM",
-            "days": "New Computer Science Bldg 120 WESTCAMPUS",
-            "instructor": "Hansen Schwartz",
-            "meetingDates": "08/28/2023 - 12/21/2023"
+        "90-LEC": {
+            "classNumber": "96966",
+            "section": "90-LEC",
+            "semester": "Fall SK",
+            "classTime": "TuTh 3:30PM - 4:50PM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Staff",
+            "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
     "CSE 355": {
@@ -483,7 +421,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 8:30AM - 9:50AM",
-            "days": "New Computer Science Bldg 120 WESTCAMPUS",
+            "room": "JAVITS LECTR 110 WESTCAMPUS",
             "instructor": "Joseph Mitchell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -492,19 +430,8 @@
             "section": "02-LEC",
             "semester": "Fall",
             "classTime": "MoWe 8:30AM - 9:50AM",
-            "days": "ONLINE ONLINE ONLINE",
+            "room": "ONLINE ONLINE ONLINE",
             "instructor": "Joseph Mitchell",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        }
-    },
-    "CSE 357": {
-        "01-LEC": {
-            "classNumber": "96268",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "MoFr 1:00PM - 2:20PM",
-            "days": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Anshul Gandhi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
@@ -514,7 +441,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "TBA",
+            "room": "JAVITS LECTR 109 WESTCAMPUS",
             "instructor": "Amir Rahmati",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -525,7 +452,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 7:00PM - 8:20PM",
-            "days": "FREY HALL 104 WESTCAMPUS",
+            "room": "FREY HALL 104 WESTCAMPUS",
             "instructor": "Dominik Kempa",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -533,32 +460,10 @@
             "classNumber": "92239",
             "section": "90-LEC",
             "semester": "Fall SK",
-            "classTime": "MoWe 9:00AM - 10:20AM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "classTime": "TuTh 5:00PM - 6:20PM",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
-        }
-    },
-    "CSE 378": {
-        "01-LEC": {
-            "classNumber": "96269",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "TBA",
-            "instructor": "Michael Ryoo",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        }
-    },
-    "CSE 381": {
-        "01-LEC": {
-            "classNumber": "91703",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 10:00AM - 11:20AM",
-            "days": "New Computer Science Bldg 120 WESTCAMPUS",
-            "instructor": "Richard McKenna",
-            "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
     "CSE 416": {
@@ -567,7 +472,7 @@
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 5:30PM - 6:50PM",
-            "days": "New Computer Science Bldg 120 WESTCAMPUS",
+            "room": "New Computer Science Bldg 120 WESTCAMPUS",
             "instructor": "Robert Kelly",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -576,7 +481,7 @@
             "section": "02-LEC",
             "semester": "Fall",
             "classTime": "TuTh 1:00PM - 2:20PM",
-            "days": "COMPUTER SCI 2311 WESTCAMPUS",
+            "room": "COMPUTER SCI 2311 WESTCAMPUS",
             "instructor": "Richard McKenna",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -585,7 +490,7 @@
             "section": "03-LEC",
             "semester": "Fall",
             "classTime": "TuTh 2:30PM - 3:50PM",
-            "days": "COMPUTER SCI 2311 WESTCAMPUS",
+            "room": "COMPUTER SCI 2311 WESTCAMPUS",
             "instructor": "Richard McKenna",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -594,8 +499,8 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 2:00PM - 3:20PM",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
-            "instructor": "Arthur Lee",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
@@ -605,7 +510,7 @@
             "section": "T01-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Kevin McDonnell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -614,7 +519,7 @@
             "section": "T02-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Stanley Bak",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -623,7 +528,7 @@
             "section": "T03-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Ritwik Banerjee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -632,7 +537,7 @@
             "section": "T04-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Bender",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -641,7 +546,7 @@
             "section": "T05-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Christopher Kane",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -650,7 +555,7 @@
             "section": "T06-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Dongyoon Lee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -659,7 +564,7 @@
             "section": "T07-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Rezaul Chowdhury",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -668,7 +573,7 @@
             "section": "T08-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Haibin Ling",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -677,7 +582,7 @@
             "section": "T09-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Ahmad Esmaili",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -686,7 +591,7 @@
             "section": "T10-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Ferdman",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -695,7 +600,7 @@
             "section": "T11-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Himanshu Gupta",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -704,7 +609,7 @@
             "section": "T12-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Kathleen-Anna Amella",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -713,7 +618,7 @@
             "section": "T13-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Robert Kelly",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -722,7 +627,7 @@
             "section": "T14-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Kifer",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -731,7 +636,7 @@
             "section": "T15-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Praveen Tripathi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -740,7 +645,7 @@
             "section": "T16-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Pramod Ganapathi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -749,7 +654,7 @@
             "section": "T17-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Yanhong Liu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -758,7 +663,7 @@
             "section": "T18-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Klaus Mueller",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -767,7 +672,7 @@
             "section": "T19-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Tashbook",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -776,7 +681,7 @@
             "section": "T20-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Richard McKenna",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -785,7 +690,7 @@
             "section": "T21-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Paul Fodor",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -794,7 +699,7 @@
             "section": "T22-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Hong Qin",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -803,7 +708,7 @@
             "section": "T23-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Jalaa Hoblos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -812,7 +717,7 @@
             "section": "T24-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "I.V. Ramakrishnan",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -821,7 +726,7 @@
             "section": "T25-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Dimitrios Samaras",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -830,7 +735,7 @@
             "section": "T26-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -839,7 +744,7 @@
             "section": "T27-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "R. Sekar",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -848,7 +753,7 @@
             "section": "T28-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Steven Skiena",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -857,7 +762,7 @@
             "section": "T29-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Scott Smolka",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -866,7 +771,7 @@
             "section": "T30-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Eugene Stark",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -875,7 +780,7 @@
             "section": "T31-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Omkant Pandey",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -884,7 +789,7 @@
             "section": "T32-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Scott Stoller",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -893,7 +798,7 @@
             "section": "T33-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Joseph Mitchell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -902,7 +807,7 @@
             "section": "T34-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Anita Wasilewska",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -911,7 +816,7 @@
             "section": "T35-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Shuai Mu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -920,7 +825,7 @@
             "section": "T36-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Erez Zadok",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -929,7 +834,7 @@
             "section": "T37-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Ryoo",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -938,7 +843,7 @@
             "section": "T38-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Xianfeng Gu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -947,7 +852,7 @@
             "section": "T39-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "COMPUTER SCI 2313F WESTCAMPUS",
+            "room": "COMPUTER SCI 2313F WESTCAMPUS",
             "instructor": "Radu Sion",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -956,7 +861,7 @@
             "section": "T40-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Anshul Gandhi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -965,7 +870,7 @@
             "section": "T41-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Yifan Sun",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -974,7 +879,7 @@
             "section": "T42-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Esther Arkin",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -983,7 +888,7 @@
             "section": "T43-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Zhaozheng Yin",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -992,7 +897,7 @@
             "section": "T44-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Shubham Jain",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1001,7 +906,7 @@
             "section": "T45-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Joydeep Mitra",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1010,7 +915,7 @@
             "section": "T90-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Arthur Lee",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1019,7 +924,7 @@
             "section": "T91-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1028,7 +933,7 @@
             "section": "T92-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Alexander Kuhn",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1037,7 +942,7 @@
             "section": "T93-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "YoungMin Kwon",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1046,7 +951,7 @@
             "section": "T94-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1055,7 +960,7 @@
             "section": "T95-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1064,7 +969,7 @@
             "section": "T96-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1073,7 +978,7 @@
             "section": "T97-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1082,7 +987,7 @@
             "section": "T98-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -1093,7 +998,7 @@
             "section": "T01-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Michail Polychronakis",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1102,7 +1007,7 @@
             "section": "T02-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Niranjan Balasubramanian",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1111,7 +1016,7 @@
             "section": "T03-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Steven Skiena",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1120,7 +1025,7 @@
             "section": "T04-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Michael Bender",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1129,7 +1034,7 @@
             "section": "T05-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Kevin McDonnell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1138,7 +1043,7 @@
             "section": "T06-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Joel Saltz",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1147,7 +1052,7 @@
             "section": "T07-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Samir Das",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1156,7 +1061,7 @@
             "section": "T08-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Ahmad Esmaili",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1165,7 +1070,7 @@
             "section": "T09-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Hansen Schwartz",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1174,16 +1079,25 @@
             "section": "T10-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Paul Fodor",
             "meetingDates": "08/28/2023 - 12/21/2023"
+        },
+        "T100-TUT": {
+            "classNumber": "97043",
+            "section": "T100-TUT",
+            "semester": "Fall SK",
+            "classTime": "TBA",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "instructor": "Byungkon Kang",
+            "meetingDates": "08/28/2023 - 12/14/2023"
         },
         "T11-TUT": {
             "classNumber": "89822",
             "section": "T11-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Himanshu Gupta",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1192,7 +1106,7 @@
             "section": "T12-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Arie Kaufman",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1201,7 +1115,7 @@
             "section": "T13-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Robert Kelly",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1210,7 +1124,7 @@
             "section": "T14-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Scott Smolka",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1219,7 +1133,7 @@
             "section": "T15-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Joydeep Mitra",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1228,7 +1142,7 @@
             "section": "T16-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Anshul Gandhi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1237,7 +1151,7 @@
             "section": "T17-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Yanhong Liu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1246,7 +1160,7 @@
             "section": "T19-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1255,7 +1169,7 @@
             "section": "T20-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Richard McKenna",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1264,7 +1178,7 @@
             "section": "T21-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Xianfeng Gu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1273,7 +1187,7 @@
             "section": "T22-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Hong Qin",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1282,7 +1196,7 @@
             "section": "T23-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "C Ramakrishnan",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1291,7 +1205,7 @@
             "section": "T24-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "I.V. Ramakrishnan",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1300,7 +1214,7 @@
             "section": "T25-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Dimitrios Samaras",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1309,7 +1223,7 @@
             "section": "T26-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Nikolaos Nikiforakis",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1318,7 +1232,7 @@
             "section": "T27-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Scott Stoller",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1327,7 +1241,7 @@
             "section": "T28-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Aruna Balasubramanian",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1336,7 +1250,7 @@
             "section": "T29-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Ritwik Banerjee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1345,7 +1259,7 @@
             "section": "T30-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Michael Ferdman",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1354,7 +1268,7 @@
             "section": "T31-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Praveen Tripathi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1363,7 +1277,7 @@
             "section": "T32-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "R. Sekar",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1372,7 +1286,7 @@
             "section": "T33-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Minh Hoai Nguyen",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1381,7 +1295,7 @@
             "section": "T34-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Niranjan Balasubramanian",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1390,7 +1304,7 @@
             "section": "T35-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Rezaul Chowdhury",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1399,7 +1313,7 @@
             "section": "T36-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Fusheng Wang",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1408,7 +1322,7 @@
             "section": "T37-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Stanley Bak",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1417,7 +1331,7 @@
             "section": "T38-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Dongyoon Lee",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1426,7 +1340,7 @@
             "section": "T39-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Haibin Ling",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1435,7 +1349,7 @@
             "section": "T40-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Shuai Mu",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1444,7 +1358,7 @@
             "section": "T41-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Michael Ryoo",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1453,7 +1367,7 @@
             "section": "T42-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Yifan Sun",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1462,7 +1376,7 @@
             "section": "T43-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Zhaozheng Yin",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1471,7 +1385,7 @@
             "section": "T44-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Shubham Jain",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1480,7 +1394,7 @@
             "section": "T45-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Pramod Ganapathi",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1489,7 +1403,7 @@
             "section": "T80-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "TBA",
+            "room": "TBA",
             "instructor": "Anthony Scarlatos",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
@@ -1498,7 +1412,7 @@
             "section": "T90-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Arthur Lee",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1507,7 +1421,7 @@
             "section": "T91-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1516,7 +1430,7 @@
             "section": "T92-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1525,7 +1439,7 @@
             "section": "T93-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1534,7 +1448,7 @@
             "section": "T94-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Chi Him Wong",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1543,7 +1457,7 @@
             "section": "T95-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "YoungMin Kwon",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1552,7 +1466,7 @@
             "section": "T96-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1561,7 +1475,7 @@
             "section": "T97-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1570,7 +1484,7 @@
             "section": "T98-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1579,7 +1493,7 @@
             "section": "T99-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "days": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS  OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
@@ -1590,7 +1504,7 @@
             "section": "T01-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Kevin McDonnell",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -1601,7 +1515,7 @@
             "section": "T01-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Bender",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
@@ -1612,7 +1526,7 @@
             "section": "T01-TUT",
             "semester": "Fall",
             "classTime": "TBA",
-            "days": "New Computer Science Bldg 101 WESTCAMPUS",
+            "room": "New Computer Science Bldg 101 WESTCAMPUS",
             "instructor": "Michael Bender",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
