@@ -17,6 +17,7 @@ with open('cse_courses.json', "r") as f:
 
 for cls in class_offerings:
     class_data = class_offerings[cls]
+    arr = []
     for sec in class_data:
         section_data = class_data[sec]
         
@@ -27,7 +28,7 @@ for cls in class_offerings:
 
 
         # Document with info about section and the instructor
-        db.document(f'chats/{cls}').set({'sections': {"sec_id": sec, "sec_ins": section_data["instructor"]}})
+        arr.append({"sec_id": sec, "sec_ins": section_data["instructor"]})
 
 
         db.collection(f'chats/{cls}/{sec}').document('meta').set(section_data)
@@ -35,3 +36,5 @@ for cls in class_offerings:
         # members and messages will be found in the following paths
         #db.collection(f'chats/{cls}/{sec}/meta/members')
         #db.collection(f'chats/{cls}/{sec}/meta/messages')
+
+    db.document(f'chats/{cls}').set({'sections': arr})
