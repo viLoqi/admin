@@ -13,31 +13,10 @@ db = firestore.client()
 with open('cse_courses.json', "r") as f:
     class_offerings = json.loads(f.read())
 
-
-
 for cls in class_offerings:
     class_data = class_offerings[cls]
-    arr = []
-
-    cls_no_space = "".join(cls.split())
-
+    school_code = "002838"
     for sec in class_data:
-        section_data = class_data[sec]
-        
-        # Additional Fields
-        section_data['_created'] = firestore.SERVER_TIMESTAMP
-        section_data['_lastWiped'] = firestore.SERVER_TIMESTAMP
-
-
-
-        # Document with info about section and the instructor
-        arr.append({"sec_id": sec, "sec_ins": section_data["instructor"]})
-
-
-        db.collection(f'chats/{cls_no_space}/{sec}').document('meta').set(section_data)
-
-        # members and messages will be found in the following paths
-        #db.collection(f'chats/{cls}/{sec}/meta/members')
-        #db.collection(f'chats/{cls}/{sec}/meta/messages')
-
-    db.document(f'chats/{cls_no_space}').set({'sections': arr})
+        cNumber = class_data[sec]['classNumber']
+        uid = int(school_code + cNumber)
+        db.document(f'chats/{uid}').set({'class': f"{cls}_{sec}"})

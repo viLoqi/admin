@@ -1,5 +1,5 @@
 {
-    "CSE 101": {
+    "CSE101": {
         "01-LEC": {
             "classNumber": "91273",
             "section": "01-LEC",
@@ -14,12 +14,12 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 10:30AM - 11:50AM",
-            "room": "Korea  OUTOFCNTRY",
+            "room": "Korea\u00a0 OUTOFCNTRY",
             "instructor": "Francois Bernard Rameau",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 114": {
+    "CSE114": {
         "01-LEC": {
             "classNumber": "89660",
             "section": "01-LEC",
@@ -43,31 +43,20 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "MoWe 2:00PM - 3:20PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 150": {
-        "01-LEC": {
-            "classNumber": "91899",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 1:00PM - 2:20PM",
-            "room": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Michael Bender",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        }
-    },
-    "CSE 214": {
+    "CSE214": {
         "01-LEC": {
             "classNumber": "89551",
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 8:30AM - 9:50AM",
-            "room": "LGT ENGR LAB 102 WESTCAMPUS",
-            "instructor": "Ahmad Esmaili",
-            "meetingDates": "08/28/2023 - 12/21/2023"
+            "room": "TBA",
+            "instructor": "LGT ENGR LAB 102 WESTCAMPUS",
+            "meetingDates": "ONLINE ONLINE WESTCAMPUS"
         },
         "02-LEC": {
             "classNumber": "91405",
@@ -83,12 +72,12 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 10:30AM - 11:50AM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 215": {
+    "CSE215": {
         "01-LEC": {
             "classNumber": "90856",
             "section": "01-LEC",
@@ -112,12 +101,12 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 12:30PM - 1:50PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 216": {
+    "CSE216": {
         "01-LEC": {
             "classNumber": "91768",
             "section": "01-LEC",
@@ -132,19 +121,19 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 9:00AM - 10:20AM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 220": {
+    "CSE220": {
         "01-LEC": {
             "classNumber": "89556",
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 8:30AM - 9:50AM",
             "room": "ENGINEERING 143 WESTCAMPUS",
-            "instructor": "Staff",
+            "instructor": "Abid Malik",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "90-LEC": {
@@ -152,24 +141,24 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "MoWe 10:30AM - 11:50AM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 260": {
+    "CSE260": {
         "01-LEC": {
             "classNumber": "90777",
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 10:00AM - 11:20AM",
             "room": "COMPUTER SCI 2120 WESTCAMPUS",
-            "instructor": "Staff",
+            "instructor": "Paul Fodor",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 261": {},
-    "CSE 300": {
+    "CSE261": {},
+    "CSE300": {
         "01-LEC": {
             "classNumber": "89560",
             "section": "01-LEC",
@@ -220,45 +209,45 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "MoWe 3:30PM - 4:50PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Christopher Houghton",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 303": {
+    "CSE303": {
         "90-LEC": {
             "classNumber": "92322",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 3:30PM - 4:50PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 304": {
+    "CSE304": {
         "90-LEC": {
             "classNumber": "96938",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 9:00AM - 10:20AM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 305": {
+    "CSE305": {
         "01-LEC": {
             "classNumber": "91744",
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "MoWe 4:00PM - 5:20PM",
-            "room": "ONLINE ONLINE WESTCAMPUS",
+            "room": "ONLINE ONLINE ONLINE",
             "instructor": "Scott Smolka",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 306": {
+    "CSE306": {
         "01-LEC": {
             "classNumber": "89562",
             "section": "01-LEC",
@@ -269,7 +258,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 310": {
+    "CSE310": {
         "01-LEC": {
             "classNumber": "89443",
             "section": "01-LEC",
@@ -284,12 +273,12 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 10:30AM - 11:50AM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 312": {
+    "CSE312": {
         "01-LEC": {
             "classNumber": "89400",
             "section": "01-LEC",
@@ -309,7 +298,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 316": {
+    "CSE316": {
         "01-LEC": {
             "classNumber": "91775",
             "section": "01-LEC",
@@ -324,32 +313,34 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "MoWe 9:00AM - 10:20AM",
-            "room": "Korea  OUTOFCNTRY",
+            "room": "Korea\u00a0 OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 320": {
-        "01-LEC": {
-            "classNumber": "91008",
-            "section": "01-LEC",
-            "semester": "Fall",
-            "classTime": "MoWe 5:30PM - 6:50PM",
-            "room": "FREY HALL 104 WESTCAMPUS",
-            "instructor": "Eugene Stark",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        },
+    "CSE320": {
         "90-LEC": {
             "classNumber": "92321",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 12:30PM - 1:50PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Yoon Seok Yang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 331": {
+    "CSE327": {
+        "01-LEC": {
+            "classNumber": "92405",
+            "section": "01-LEC",
+            "semester": "Fall",
+            "classTime": "MoWe 7:00PM - 8:20PM",
+            "room": "COMPUTER SCI 2120 WESTCAMPUS",
+            "instructor": "Zhaozheng Yin",
+            "meetingDates": "08/28/2023 - 12/21/2023"
+        }
+    },
+    "CSE331": {
         "01-LEC": {
             "classNumber": "91473",
             "section": "01-LEC",
@@ -360,7 +351,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 334": {
+    "CSE334": {
         "01-LEC": {
             "classNumber": "89563",
             "section": "01-LEC",
@@ -371,18 +362,18 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 337": {
+    "CSE337": {
         "01-LEC": {
             "classNumber": "91702",
             "section": "01-LEC",
             "semester": "Fall",
             "classTime": "TuTh 11:30AM - 12:50PM",
-            "room": "FREY HALL 102 WESTCAMPUS",
-            "instructor": "Staff",
+            "room": "HARRIMAN HLL 137 WESTCAMPUS",
+            "instructor": "Abid Malik",
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 350": {
+    "CSE350": {
         "01-LEC": {
             "classNumber": "91945",
             "section": "01-LEC",
@@ -393,29 +384,29 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 352": {
+    "CSE352": {
         "90-LEC": {
             "classNumber": "92281",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 2:00PM - 3:20PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 354": {
+    "CSE354": {
         "90-LEC": {
             "classNumber": "96966",
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 3:30PM - 4:50PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 355": {
+    "CSE355": {
         "01-LEC": {
             "classNumber": "91029",
             "section": "01-LEC",
@@ -435,7 +426,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 360": {
+    "CSE360": {
         "01-LEC": {
             "classNumber": "92091",
             "section": "01-LEC",
@@ -446,7 +437,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 373": {
+    "CSE373": {
         "01-LEC": {
             "classNumber": "89564",
             "section": "01-LEC",
@@ -461,12 +452,23 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 5:00PM - 6:20PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 416": {
+    "CSE381": {
+        "01-LEC": {
+            "classNumber": "91703",
+            "section": "01-LEC",
+            "semester": "Fall",
+            "classTime": "TuTh 10:00AM - 11:20AM",
+            "room": "New Computer Science Bldg 120 WESTCAMPUS",
+            "instructor": "Richard McKenna",
+            "meetingDates": "08/28/2023 - 12/21/2023"
+        }
+    },
+    "CSE416": {
         "01-LEC": {
             "classNumber": "91716",
             "section": "01-LEC",
@@ -474,15 +476,6 @@
             "classTime": "TuTh 5:30PM - 6:50PM",
             "room": "New Computer Science Bldg 120 WESTCAMPUS",
             "instructor": "Robert Kelly",
-            "meetingDates": "08/28/2023 - 12/21/2023"
-        },
-        "02-LEC": {
-            "classNumber": "91717",
-            "section": "02-LEC",
-            "semester": "Fall",
-            "classTime": "TuTh 1:00PM - 2:20PM",
-            "room": "COMPUTER SCI 2311 WESTCAMPUS",
-            "instructor": "Richard McKenna",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "03-LEC": {
@@ -499,12 +492,12 @@
             "section": "90-LEC",
             "semester": "Fall SK",
             "classTime": "TuTh 2:00PM - 3:20PM",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 475": {
+    "CSE475": {
         "T01-TUT": {
             "classNumber": "89565",
             "section": "T01-TUT",
@@ -907,7 +900,7 @@
             "semester": "Fall",
             "classTime": "TBA",
             "room": "TBA",
-            "instructor": "Joydeep Mitra",
+            "instructor": "Abid Malik",
             "meetingDates": "08/28/2023 - 12/21/2023"
         },
         "T90-TUT": {
@@ -915,7 +908,7 @@
             "section": "T90-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Arthur Lee",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -924,7 +917,7 @@
             "section": "T91-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -933,7 +926,7 @@
             "section": "T92-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Alexander Kuhn",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -942,7 +935,7 @@
             "section": "T93-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "YoungMin Kwon",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -951,7 +944,7 @@
             "section": "T94-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -960,7 +953,7 @@
             "section": "T95-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -969,7 +962,7 @@
             "section": "T96-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -978,7 +971,7 @@
             "section": "T97-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -987,12 +980,12 @@
             "section": "T98-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 487": {
+    "CSE487": {
         "T01-TUT": {
             "classNumber": "89569",
             "section": "T01-TUT",
@@ -1088,7 +1081,7 @@
             "section": "T100-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Byungkon Kang",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1412,7 +1405,7 @@
             "section": "T90-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Arthur Lee",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1421,7 +1414,7 @@
             "section": "T91-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Jihoon Ryoo",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1430,7 +1423,7 @@
             "section": "T92-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1439,7 +1432,7 @@
             "section": "T93-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "AMOS OMONDI",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1448,7 +1441,7 @@
             "section": "T94-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Chi Him Wong",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1457,7 +1450,7 @@
             "section": "T95-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "YoungMin Kwon",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1466,7 +1459,7 @@
             "section": "T96-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1475,7 +1468,7 @@
             "section": "T97-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Antonino Mione",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1484,7 +1477,7 @@
             "section": "T98-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Zhoulai Fu",
             "meetingDates": "08/28/2023 - 12/14/2023"
         },
@@ -1493,12 +1486,12 @@
             "section": "T99-TUT",
             "semester": "Fall SK",
             "classTime": "TBA",
-            "room": "OFFCAMPUS  OUTOFCNTRY",
+            "room": "OFFCAMPUS\u00a0 OUTOFCNTRY",
             "instructor": "Staff",
             "meetingDates": "08/28/2023 - 12/14/2023"
         }
     },
-    "CSE 488": {
+    "CSE488": {
         "T01-TUT": {
             "classNumber": "89576",
             "section": "T01-TUT",
@@ -1509,7 +1502,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 495": {
+    "CSE495": {
         "T01-TUT": {
             "classNumber": "89729",
             "section": "T01-TUT",
@@ -1520,7 +1513,7 @@
             "meetingDates": "08/28/2023 - 12/21/2023"
         }
     },
-    "CSE 496": {
+    "CSE496": {
         "T01-TUT": {
             "classNumber": "91009",
             "section": "T01-TUT",
